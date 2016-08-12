@@ -1,7 +1,7 @@
 Veltor integration/staging tree
 ================================
 
-http://www.Veltor.org
+addnode=52.90.105.10
 
 Copyright (c) 2009-2013 Bitcoin Developers
 Copyright (c) 2016 Veltor Developers
