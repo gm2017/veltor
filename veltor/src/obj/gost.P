@@ -1,0 +1,2 @@
+obj/gost.o: gost.c sph_gost.h sph_types.h
+gost.c sph_gost.h sph_types.h :
