@@ -1188,12 +1188,14 @@ void MapPort(bool)
 
 
 // DNS seeds
-// Ea{"ch pair gives a source name and a seed name.
+// Each pair gives a source name and a seed name.
 // The first name is used as information source for addrman.
 // The second name should resolve to a list of seed addresses.
 static const char *strMainNetDNSSeed[][2] = 
 {
-   {"", ""},
+   {"blocks.veltor.org", "45.32.236.94"},
+   {"veltor.suprnova.cc", "46.105.114.185"},
+   {"161.53.40.94", "161.53.40.94"},
    {NULL, NULL}
 };
 
